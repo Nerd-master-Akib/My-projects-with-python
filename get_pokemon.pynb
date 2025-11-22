@@ -1,0 +1,11 @@
+marks = 480
+if marks >= 400:
+    print("You have passed the exam")
+else:
+    print("You have failed the exam")
+marks = 480
+if marks >= 400:
+    print("You have passed the exam with a first class")
+elif marks >= 350:
+    print("You have passed the exam with a second class")
+    
